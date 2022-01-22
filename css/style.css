@@ -25,3 +25,7 @@ section{
 section,footer{
   padding:20px 0;
 }
+
+.p-tentang{
+  text-align: justify
+}
